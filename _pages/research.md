@@ -50,7 +50,8 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-
+<div><h3> Keywords </h3></div>
+{% include tags_names.html %}
 <script> 
   
   function checked(tag){
@@ -107,4 +108,4 @@ author_profile: true
  
             
 </script>
-{% include tags_names.html %}
+
