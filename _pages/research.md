@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% include tags_names.html %}
+
 
 
 
@@ -107,3 +107,4 @@ author_profile: true
  
             
 </script>
+{% include tags_names.html %}
