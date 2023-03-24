@@ -14,10 +14,7 @@
 
 
 
-{% assign tags_var = '' %}
-{% for item in post.tags %}
-  {% assign tags_var = tags_var | append: ' ' | append: item %}
-{% endfor %}
+
 
 <div class="{{ include.type | default: "list" }}__item">
   
@@ -73,3 +70,8 @@
     </article>
   </div>
 </div>
+
+{% assign tags_var = '' %}
+{% for item in post.tags %}
+  {% assign tags_var = tags_var | append: ' ' | append: item %}
+{% endfor %}
