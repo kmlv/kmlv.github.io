@@ -10,6 +10,10 @@ redirect_from:
 <h1 align="center">Kristian López Vargas</h1>
 <p 
 align="center"> 
+ <p>Department of Economics</p>
+  <p>University of California</p>
+  <p>1156 High Street</p>
+  <p>Santa Cruz, CA 95064</p>
 <a href="mailto:kristian@ucsc.edu?Subject=From%20github%20page" target="_top">kristian@ucsc.edu</a> 
 <br>
 <a href="https://kmlv.github.io">kmlv.github.io</a> 
@@ -17,169 +21,109 @@ align="center">
 
 {% include base_path %}
 
-Affiliation
-======
-* July 2015-present: Assistant Professor, Economics Department
-   * University of California, Santa Cruz 
-
-Research, Teaching Interests
-======
-* Experimental Economics
-* Behavioral Economics
-* Microeconomics
-
-Education
-======
-* Ph.D. in Economics, University of Maryland, 2015
-* M.Sc. in Economics, Texas A&M University, 2009
-* B.S. in Social Sciences - Economics, Pontificia Universidad Católica del Perú, 2001
-
-Research / Publications
-=======================
-  <ul>{% for post in site.research %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-
-
-Work experience
+EMPLOYMENT 
 ======
 
-* July 2015-present: Assistant Professor, Economics Department
-   * University of California, Santa Cruz 
-
-* Fall 2015 – Spring 2016: Visiting Assistant Professor, Department of Economics
-   * University of Maryland
-
-* Summer 2015: Consultant
-   * Inter-American Development Bank (IADB)
-
-* Fall 2014: Research Assistant, Department of Economics
-   * University of Maryland
-
-* Summer 2013: Consultant
-   * Inter-American Development Bank (IADB)
-
-* Spring 2013: Research Assistant, Department of Economics
-   * University of Maryland
-
-* Summer 2012: Instructor, Escuela de Posgrado
-   * Pontificia Universidad Católica del Perú
-
-* Spring – Summer 2012: Research Assistant, Department of Economics
-   * University of Maryland
- 
-* Fall 2011: Teaching Assistant, Department of Economics
-   * University of Maryland
-
-* Spring – Fall 2011: Research Assistant, Department of Economics
-   * University of Maryland
-* Summer 2011: Instructor, Department of Economics
-   * University of Maryland
-* Summer 2011: Consultant
-   * Inter-American Development Bank (IADB)
-
-* Winter 2009: Research Assistant
-   * World Bank
-
-* Fall 2008: Teaching Assistant, Department of Economics
-   * Texas A&M University
-
-* Summer 2008: Research Assistant
-   * World Bank
-
-* 2005 – 2007: Quantitative Specialist, Research Unit
-   * Regulatory Agency of the Telecommunication Industry of Peru (OSIPTEL)
-
-* 2004 – 2005: Research Assistant
-   * Group for the Analysis of Development (GRADE), Peru
-
-* 2002 – 2004: Analyst
-   * Ministry of Economy and Finance of Peru
+* 2015-		   Assistant Professor, Economics Department, University of California, Santa Cruz
+* 2015-2016	Visiting Assistant Professor, Department of Economics, University of Maryland
 
 
-Honors, Awards
+EDUCATION
 ======
-
-* Fall 2014 – Spring 2015
-   * Fellowship: Alicia and Roger Betancourt Fellowship in Applied Economics
-
-* 2008 – 2009
-   * Scholarship: Texas Higher Education Coordinating Board Scholarship
-
-* 2007 – 2009
-   * Fulbright Award: Fulbright Scholarship, Institute of International Education
-
-* 2007 – 2009
-   * Scholarship: BARSA Scholarship, Brazil-based De Sa Inter-American Foundation
-
-* 2002
-   * UniónVida Academic Excellence Award: UniónVida Academic Excellence Award, Banco Santander
+* 2015        Ph.D., Economics,  University of Maryland 
+* 2009		   M.Sc., Economics, Texas A&M University
+* 2001		   B.S., Social Sciences, Economics. Pontifical Catholic University of Peru
 
 
-Grants
+RESEARCH PAPERS 
 ======
+* Arrieta Vidal, J., Florián Hoyle, D., López Vargas, K. & Morales Vázquez, V. (2022). "Policies for transactional de-dollarization: A laboratory study." Journal of Economic Behavior & Organization, 200, 31-54. doi.org/10.1016/j.jebo.2022.05.012
 
-* Fall 2017-present
-   *  Co-Principal Investigator, "High Frequency Trading and Financial Market Design" (with Eric Aldrich, Daniel Friedman). Sub-award from European Research Council (ERC) - University of Cologne (grant agreement No 741409). $100,000
+* López Vargas, K., Runge, J. & Zhang, R. (2022). "Algorithmic Assortative Matching on a Digital Social Medium." Information Systems Research, 33(4), 1138-1156. doi.org/10.1287/isre.2022.1135
 
-* Apr 2018 – Sep 2018
-   * Principal Investigator, "Testbed Experiments for CRP Auction Design", University of Maryland - USDA (Awarded 4/2018) $65,000
-   
-* Fall 2016
-   *  Co-Principal Investigator, "High Frequency Trading and Financial Market Design" (with Eric Aldrich and Daniel Friedman). Second Seed Funding from Santa Cruz Center for Analytical Finance (CAFIN). $10,000
+* Cramton, P., Hellerstein, D., Higgins, N., Iovanna, R., López Vargas, K. & Wallander, S. (2021). "Improving the Cost-Effectiveness of the Conservation Reserve Program: A Laboratory Study." Journal of Environmental Economics and Management, 108, 102439. doi.org/10.1016/j.jeem.2021.102439
 
-* Apr 2016 – Mar 2017
-   * Principal Investigator, "Testbed Experiments for CRP Auction Design", University of Maryland - USDA (Project 4/2016-3/2017; Awarded 4/2016) $32,365
+* Aldrich, E., Demirci, H. A. & López Vargas, K. (2020). "An oTree-based Flexible Architecture for Financial Market Experiments." Journal of Behavioral and Experimental Finance, 25, 100205. doi.org/10.1016/j.jbef.2019.03.007
 
-* Nov 2015 – Oct 2016
-   * Principal Investigator, "Emotion Expression in Economics", University of Exeter. (Project 11/2015-10/2016; Awarded 4/2016) $7,193
+* Aldrich, E. & López Vargas, K. (2020). "Experiments in High-Frequency Trading: Comparing Two Market Institutions." Experimental Economics, 23, 322–352. doi.org/10.1007/s10683-019-09605-2
 
-* Oct 2015 – Oct 2016 
-   * Principal Investigator, Principal Investigator, "Emotion Expression in Economics", University of Exeter. (Project 11/2015-10/2016; Awarded 7/2016) $14,627
+* Jaramillo, M. & López Vargas, K. (2019). "Interpersonal Comparisons and Risk Attitudes: An Artefactual Field Experiment." Economics Letters, 179, 16-18. https://doi.org/10.1016/j.econlet.2019.03.011
 
-* Summer 2016
-   * Principal Investigator, UCSC Committee on Research (COR) Grants $2,000
-
-* Fall 2015
-   * Co-Principal Investigator, "High Frequency Trading and Financial Market Design" (with Eric Aldrich and Daniel Friedman). Seed funding from UC Santa Cruz Center for Analytical Finance (CAFIN).  $10,000
+* Filiz-Ozbay, E., López Vargas, K. & Ozbay, E. Y. (2015). "Multi-Object Auctions with Resale: Theory and Experiment." Games and Economic Behavior, 89, 1-16. https://doi.org/10.1016/j.geb.2014.10.0081
 
 
-  
-Talks, Conferences, and Workshops
+WORKING PAPERS
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+* Feldman, P. & López Vargas, K. (2023). "Disentangling Risk Attitudes and Other-Regarding Preferences: Theory and Experiment." Working Paper.
 
-Academic Referee Work
+* López Vargas, K., Medina, S. & Moromizato, G. (2023) “Separation of Powers and Electoral Rules: A Laboratory Study of Presidential Democracies.” Working Paper.
+
+* Fuhrmann-Riebel, H., D’Exelle, B., López Vargas, K., Tonke, S. & Verschoor, A. (2022). "Correcting Misperceptions About Trends and Norms to Address Weak Collective Action." Working Paper. 
+
+* López Vargas, K., Parodi, S., Ramirez, I. & Villa-Paro, P. (2022). "Messenger and Spillover Effects on Infant Immunization: A Field Experiment." Working Paper. 
+
+* López Vargas, K., Williams, B. & Zhao, S. (2022). "Efficiency in Queuing Under Decentralized Mechanisms." Working Paper. 
+
+* Grosskopf, B. & López Vargas, K. (2014). "On the Demand for Expressing Emotions." Working Paper.
+
+PROFESSIONAL SERVICE
 ======
-  * Internationan Economic Review,
-  * Journal of Economic behavior and Organization,
-  * Journal of Economic Psychology
-  * Journal and Behavioral Experimental Economics
-  * Journal and Behavioral Experimental Finance
-  * Journal of Economics & Management Strategy
-  * Latin American Research Review
-  
-Teaching
+* Referee: Management Science, Experimental Economics, the Journal of Economic Behavior and Organization, the Journal of Economic Psychology, the Economics Bulletin, the International Economic Review, the Journal of Behavioral and Experimental Economics, the Journal of Behavioral and * Experimental Finance, the Journal of Economics & Management Strategy.
+
+DEPARTMENT AND UNIVERSITY SERVICE 
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2021-		Director of the LEEPS Laboratory
+* 2021-2022	Committee Member for Microeconomics Seminar Series 
+* 2020-2021	Hiring Committee Member - Microeconomic Theory
+* 2020-		Member of the Steering Committee of the Center for Analytical Finance (CAFIN)
+* 2016-2020	Co-Director of the LEEPS Laboratory
+* 2016		Review Committee Member, 2016 UC MEXUS-CONACYT Research Grant
+* 2016-		Co-committee member for IT (Computing, Library, Web)
+* 2015-2016	Coordinator for the department's weekly Brown Bag Seminar series
 
 
-Service 
+CONFERENCES AND SEMINARS 
 ======
-* Coorganizer of the 2018 Lima Conference of Behavioral and Experimental Economics. 
-* Coorganizer of the 2018 UCSC Workshop on High-Frequency Trading and Financial Market Design.
-* University Service - Service to the Department: 2015-16, Coordinator for department's weekly Brown Bag Seminar Series
-* University Service- Service to the University: Spring 2016, Review Committee Member, 2016 UC MEXUS-CCONACYT Resarch Grant
+* Stanford Institute for Theoretical Economics (2015)
+* Regional Conference on Experimental Finance (2016, 2017)
+* LACEA/LAMES (2017, 2021, 2022)
+* North American Economic Science Association Meeting (2018, 2021)
+* Economic Science Association World Meeting (2018, 2022)
+* Bay Area Behavioral and Experimental Economics Workshop (2019, 2021)
+* Econometric Society Summer Meeting (2022)
+* Social Choice and Welfare Meetings (2022)
+* LACEA/BRAIN (2022)
+* BEEC (2018, 2019, 2021, 2022)
+* Theory and Experiments in Monetary Economics Conference (2022)
+* Networking Experimental Laboratories and Subject Pools (spring 2023)
+* International Meeting on Experimental and Behavioral Social Sciences (spring 2023)
+* American Economic Association Meeting (2019, as session discussant)
+* LACEA/LAMES Conference in 2021 (as conference paper reviewer)
+* LACEA/LAMES Conference in 2023 (as scientific committee member)
+* Toulouse School of Economics (2015, as seminar presenter)
+* Pompeu Fabra University (2015, as seminar presenter)
+* Australian National University (2015, as seminar presenter)
+* Central Bank of Peru (2018, 2018, as seminar presenter and conference organizer respectively)
 
-Other
+TEACHING 
 ======
-* Co-Director LEEPS Lab UCSC, CA
-* Co-Director LEEX Lab PUCP, Peru
-* Co-founder Ankay Inc. www.ankay.org
+* 2020-		Advanced Microeconomics Theory  (UCSC ECON 204B) – Ph.D.  
+* 2018-		Dissertation and Thesis Research (UCSC ECON 297A, 298, 299B) – Ph.D.  
+* 2015-		Intermediate Microeconomics (UCSC ECON 100A) – Undergrad
+* 2015-	 	Individual and Field Studies (UCSC ECON 193, 193F, 199, 199F) – Undergrad
+* 2015-		Advanced Applied Microeconomics (UCSC ECON 270) – Ph.D.           
+* 2015-		Behavioral, Experimental, and Theoretical Economics Workshop  
+* (UCSC ECON 276) – Ph.D.  
 
+ADVISEES AND DISSERTATION COMMITTEES 
+======
+* Rachel Zang (2020) - Data Scientist at Meta. Inc.
+* Shuchen Zhao (2021) - Assistant Professor Dongbei University, China.
+* Liwei Liu (2022) - Data Scientist at Meta. Inc.
+* Brett Williams (2022) - Post-doctoral fellow at the AGORA Centre for Market Design at UNSW.
+* Zhaoqui Wang (2023) - Assistant Professor Jinan University, China.
+* Gregory Klevans (current)
+* Yilin Li (current)
+* Weinan Gong (current)
+* Vivian Zheng (current)
+* Gagandeep Sachdeva (current)
