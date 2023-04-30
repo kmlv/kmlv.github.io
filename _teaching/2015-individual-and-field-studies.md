@@ -7,7 +7,7 @@ venue: "UCSC, Department of Economics"
 date: 2015-01-01 00:00:00 -0000
 location: "Santa Cruz, CA"
 ---
-
+<!--
 [Check my notes here https://kmlv.github.io/Econ100A_F17/](https://kmlv.github.io/Econ100A_F17/)
 
 <!-- Heading 1 -->
