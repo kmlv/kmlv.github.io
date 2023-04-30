@@ -8,12 +8,14 @@ redirect_from:
 ---
 
 <h1 align="center">Kristian López Vargas</h1>
+<div align = "center">
+Department of Economics<br>
+University of California<br>
+1156 High Street<br>
+Santa Cruz, CA 95064<br>
+</div>
 <p 
-align="center"> 
- <p>Department of Economics</p>
-  <p>University of California</p>
-  <p>1156 High Street</p>
-  <p>Santa Cruz, CA 95064</p>
+align="center"
 <a href="mailto:kristian@ucsc.edu?Subject=From%20github%20page" target="_top">kristian@ucsc.edu</a> 
 <br>
 <a href="https://kmlv.github.io">kmlv.github.io</a> 
