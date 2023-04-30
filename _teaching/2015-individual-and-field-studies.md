@@ -1,8 +1,8 @@
 ---
-title: "Advanced Applied Microeconomics (UCSC ECON 270)"
+title: "Individual and Field Studies (UCSC ECON 193, 193F, 199, 199F)"
 collection: teaching
-type: "Ph.D. course"
-permalink: /teaching/2015-advanced-applied-microeconomics-phd.md
+type: "Undergraduate course"
+permalink: /teaching/2015-individual-and-field-studies.md
 venue: "UCSC, Department of Economics"
 date: 2015
 location: "Santa Cruz, CA"
@@ -18,4 +18,3 @@ location: "Santa Cruz, CA"
 
 <!-- Heading 3 -->
 <!-- ====== -->
-

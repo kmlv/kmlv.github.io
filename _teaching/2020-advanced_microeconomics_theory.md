@@ -1,10 +1,10 @@
 ---
-title: "Intermediate Microeconomics at UCSC"
+title: "Advanced Microeconomics Theory (UCSC ECON 204B)"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2017-fall-teaching-1
+type: "Ph.D. course"
+permalink: /teaching/2020-advanced_microeconomics_theory.md
 venue: "UCSC, Department of Economics"
-date: 2017-09-01
+date: 2020
 location: "Santa Cruz, CA"
 ---
 

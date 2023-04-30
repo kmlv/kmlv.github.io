@@ -1,10 +1,10 @@
 ---
-title: "Individual and Field Studies at UCSC"
+title: "Intermediate Microeconomics (UCSC ECON 100A)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2015-individual-and-field-studies-undergrad.md
+permalink: /teaching/2017-intermediate_microeconomics.md
 venue: "UCSC, Department of Economics"
-date: 2015
+date: 2017-09-01
 location: "Santa Cruz, CA"
 ---
 

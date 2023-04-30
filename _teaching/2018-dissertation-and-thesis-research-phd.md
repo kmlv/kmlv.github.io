@@ -1,5 +1,5 @@
 ---
-Title: "Dissertation and Thesis Research at UCSC"
+Title: "Dissertation and Thesis Research (UCSC ECON 297A, 298, 299B)"
 Collection: teaching
 Type: "Ph.D. course"
 permalink: /teaching/2018-dissertation-and-thesis-research-phd.md
