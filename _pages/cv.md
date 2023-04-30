@@ -37,7 +37,7 @@ RESEARCH PAPERS
 ======
 {% for post in site.research reversed %}
   {% if post.PublicationStatus == 'Published' %}
-    {% include archive-single.html %}
+    * {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 <!--
