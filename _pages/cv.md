@@ -110,8 +110,7 @@ TEACHING
 * 2015-		Intermediate Microeconomics (UCSC ECON 100A) – Undergrad
 * 2015-	 	Individual and Field Studies (UCSC ECON 193, 193F, 199, 199F) – Undergrad
 * 2015-		Advanced Applied Microeconomics (UCSC ECON 270) – Ph.D.           
-* 2015-		Behavioral, Experimental, and Theoretical Economics Workshop  
-* (UCSC ECON 276) – Ph.D.  
+* 2015-		Behavioral, Experimental, and Theoretical Economics Workshop (UCSC ECON 276) – Ph.D.  
 
 ADVISEES AND DISSERTATION COMMITTEES 
 ======
