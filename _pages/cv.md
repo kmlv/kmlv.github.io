@@ -41,7 +41,7 @@ RESEARCH PAPERS
      {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-<ul>
+</ul>
 <!--
 * Arrieta Vidal, J., Florián Hoyle, D., López Vargas, K. & Morales Vázquez, V. (2022). "Policies for transactional de-dollarization: A laboratory study." Journal of Economic Behavior & Organization, 200, 31-54. doi.org/10.1016/j.jebo.2022.05.012
 
