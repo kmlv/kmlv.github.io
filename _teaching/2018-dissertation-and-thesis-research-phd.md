@@ -1,11 +1,11 @@
 ---
-Title: "Dissertation and Thesis Research (UCSC ECON 297A, 298, 299B)"
-Collection: teaching
-Type: "Ph.D. course"
+title: "Dissertation and Thesis Research (UCSC ECON 297A, 298, 299B)"
+collection: teaching
+type: "Ph.D. course"
 permalink: /teaching/2018-dissertation-and-thesis-research-phd.md
-Venue: "UCSC, Department of Economics"
-Date: 2018
-Location: "Santa Cruz, CA"
+venue: "UCSC, Department of Economics"
+date: 2018-01-01
+location: "Santa Cruz, CA"
 ---
 
 [Check my notes here https://kmlv.github.io/Econ100A_F17/](https://kmlv.github.io/Econ100A_F17/)
