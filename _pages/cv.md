@@ -42,6 +42,7 @@ RESEARCH PAPERS
   {% endif %}
 {% endfor %}
 </ul>
+
 <!--
 * Arrieta Vidal, J., Florián Hoyle, D., López Vargas, K. & Morales Vázquez, V. (2022). "Policies for transactional de-dollarization: A laboratory study." Journal of Economic Behavior & Organization, 200, 31-54. doi.org/10.1016/j.jebo.2022.05.012
 
@@ -60,7 +61,15 @@ RESEARCH PAPERS
 
 WORKING PAPERS
 ======
+<ul>
+{% for post in site.research reversed %}
+  {% if post.PublicationStatus == 'WorkingPaper' and post.title != 'Risk Attitudes and Fairness: Theory and Experiment' and post.title != 'Price Caps and Scores in Multi-Object, Pay-As-Bid Procurement Auctions' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+</ul>
 
+<!--
 * Feldman, P. & López Vargas, K. (2023). "Disentangling Risk Attitudes and Other-Regarding Preferences: Theory and Experiment." Working Paper.
 
 * López Vargas, K., Medina, S. & Moromizato, G. (2023) “Separation of Powers and Electoral Rules: A Laboratory Study of Presidential Democracies.” Working Paper.
@@ -72,6 +81,7 @@ WORKING PAPERS
 * López Vargas, K., Williams, B. & Zhao, S. (2022). "Efficiency in Queuing Under Decentralized Mechanisms." Working Paper. 
 
 * Grosskopf, B. & López Vargas, K. (2014). "On the Demand for Expressing Emotions." Working Paper.
+-->
 
 PROFESSIONAL SERVICE
 ======
