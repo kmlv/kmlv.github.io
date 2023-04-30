@@ -70,7 +70,7 @@ WORKING PAPERS
 </ul>
 <ul>
 {% for post in site.research reversed %}
-  {% if post.PublicationStatus == 'WorkInProgress' and post.title == 'Correcting Misperceptions About Trends and Norms to Address Weak Collective Action' %}
+  {% if post.PublicationStatus == 'WorkInProgress' and post.title == 'Correcting Misperceptions About Trends and Norms to Address Weak Collective Action' or post.title == 'Separation of Powers and Electoral Rules: A Laboratory Study of Presidential Democracies' %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
