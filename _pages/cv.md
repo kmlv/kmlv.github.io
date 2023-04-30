@@ -68,6 +68,13 @@ WORKING PAPERS
   {% endif %}
 {% endfor %}
 </ul>
+<ul>
+{% for post in site.research reversed %}
+  {% if post.PublicationStatus == 'WorkInProgress' and post.title == 'Correcting Misperceptions About Trends and Norms to Address Weak Collective Action' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+</ul>
 
 <!--
 * Feldman, P. & López Vargas, K. (2023). "Disentangling Risk Attitudes and Other-Regarding Preferences: Theory and Experiment." Working Paper.
