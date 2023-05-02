@@ -92,7 +92,7 @@ WORKING PAPERS
 
 PROFESSIONAL SERVICE
 ======
-* Referee: Management Science, Experimental Economics, the Journal of Economic Behavior and Organization, the Journal of Economic Psychology, the Economics Bulletin, the International Economic Review, the Journal of Behavioral and Experimental Economics, the Journal of Behavioral and * Experimental Finance, the Journal of Economics & Management Strategy.
+* Referee: Management Science, Experimental Economics, Journal of Economic Behavior and Organization, Journal of Economic Psychology, the Economics Bulletin, the International Economic Review, Journal of Behavioral and Experimental Finance, Journal of Economics & Management Strategy.
 
 DEPARTMENT AND UNIVERSITY SERVICE 
 ======
