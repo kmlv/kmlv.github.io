@@ -108,26 +108,27 @@ DEPARTMENT AND UNIVERSITY SERVICE
 
 CONFERENCES AND SEMINARS 
 ======
-* Stanford Institute for Theoretical Economics (2015)
-* Regional Conference on Experimental Finance (2016, 2017)
+* International Meeting on Experimental and Behavioral Social Sciences (May 2023)
+* Networking Experimental Laboratories and Subject Pools (2023)
+* LACEA/LAMES Conference (2023, as scientific committee member)
 * LACEA/LAMES (2017, 2021, 2022)
-* North American Economic Science Association Meeting (2018, 2021)
-* Economic Science Association World Meeting (2018, 2022)
-* Bay Area Behavioral and Experimental Economics Workshop (2019, 2021)
 * Econometric Society Summer Meeting (2022)
 * Social Choice and Welfare Meetings (2022)
 * LACEA/BRAIN (2022)
 * BEEC (2018, 2019, 2021, 2022)
 * Theory and Experiments in Monetary Economics Conference (2022)
-* Networking Experimental Laboratories and Subject Pools (spring 2023)
-* International Meeting on Experimental and Behavioral Social Sciences (spring 2023)
+* Economic Science Association World Meeting (2018, 2022)
+* North American Economic Science Association Meeting (2018, 2021)
+* Bay Area Behavioral and Experimental Economics Workshop (2019, 2021)
+* LACEA/LAMES Conference (2021, as conference paper reviewer)
 * American Economic Association Meeting (2019, as session discussant)
-* LACEA/LAMES Conference in 2021 (as conference paper reviewer)
-* LACEA/LAMES Conference in 2023 (as scientific committee member)
+* Central Bank of Peru (2018, as seminar presenter)
+* Regional Conference on Experimental Finance (2016, 2017)
+* Stanford Institute for Theoretical Economics (2015)
 * Toulouse School of Economics (2015, as seminar presenter)
 * Pompeu Fabra University (2015, as seminar presenter)
 * Australian National University (2015, as seminar presenter)
-* Central Bank of Peru (2018, 2018, as seminar presenter and conference organizer respectively)
+
 
 TEACHING 
 ======
