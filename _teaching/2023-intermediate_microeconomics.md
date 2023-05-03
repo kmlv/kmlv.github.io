@@ -2,11 +2,10 @@
 title: "Intermediate Microeconomics (UCSC ECON 100A)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2017-intermediate_microeconomics
+permalink: /teaching/2023-intermediate_microeconomics
 venue: "UCSC, Department of Economics"
-date: 2017-09-01
+date: 2023-05-01
 location: "Santa Cruz, CA"
 ---
 
-[Check my notes here https://kmlv.github.io/Econ100A_F17/](https://kmlv.github.io/Econ100A_F17/)
-
+[Slides/Notes](https://kmlv.github.io/econ100a-slides_homeworks)
