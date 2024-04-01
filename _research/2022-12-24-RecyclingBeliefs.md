@@ -11,7 +11,7 @@ excerpt: ''
 
 date: 2022-12-24
 
-venue: ''
+venue: 'R&R at JEEM'
 
 paperurl: 'https://ssrn.com/abstract=4311583'
 
