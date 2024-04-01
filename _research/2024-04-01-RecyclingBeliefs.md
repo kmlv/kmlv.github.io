@@ -4,12 +4,12 @@ title: "Correcting Misperceptions About Trends and Norms to Address Weak Collect
 
 collection: research
 
-permalink: /research/2022-12-24-RecyclingBeliefs
+permalink: /research/2024-04-01-RecyclingBeliefs
 
 
 excerpt: ''
 
-date: 2022-12-24
+date: 2024-04-01
 
 venue: 'R&R at JEEM'
 
