@@ -11,7 +11,7 @@ excerpt: ''
 
 date: 2024-04-01
 
-venue: 'R&R at JEEM'
+venue: 'Forthcoming at JEEM'
 
 paperurl: 'https://ssrn.com/abstract=4311583'
 
