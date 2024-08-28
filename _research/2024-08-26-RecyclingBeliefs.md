@@ -4,20 +4,20 @@ title: "Correcting Misperceptions About Trends and Norms to Address Weak Collect
 
 collection: research
 
-permalink: /research/2024-04-01-RecyclingBeliefs
+permalink: /research/2024-08-26-RecyclingBeliefs
 
 
 excerpt: ''
 
-date: 2024-04-01
+date: 2024-08-26
 
-venue: 'Forthcoming at JEEM'
+venue: 'Forthcoming at Journal of Environmental Economics Management'
 
 paperurl: 'https://ssrn.com/abstract=4311583'
 
 citation: 'Fuhrmann-Riebel, H., D’Exelle, B., López Vargas, K., Tonke, S. & Verschoor, A. (2022). &quot;Correcting Misperceptions About Trends and Norms to Address Weak Collective Action.&quot; <i>Working Paper</i>.'
 
-PublicationStatus: 'WorkingPaper'
+PublicationStatus: 'Published'
 
 tags: ['Experiment','Field','Environmental','CollectiveAction','SocialNorms','Beliefs']
 
