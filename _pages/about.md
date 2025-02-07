@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Associate professor of economics at the University of California, Santa Cruz (acting while processing residency).
+Associate professor of economics at the University of California, Santa Cruz.
 My work is in microeconomics, behavioral economics, and experimental economics.
 
 
