@@ -11,11 +11,11 @@ excerpt: ''
 
 date: 2024-08-26
 
-venue: 'Forthcoming at Journal of Environmental Economics Management'
+venue: 'Journal of Environmental Economics Management'
 
-paperurl: 'https://ssrn.com/abstract=4311583'
+paperurl: 'https://doi.org/10.1016/j.jeem.2024.103046'
 
-citation: 'Fuhrmann-Riebel, H., D’Exelle, B., López Vargas, K., Tonke, S. & Verschoor, A. (2022). &quot;Correcting Misperceptions About Trends and Norms to Address Weak Collective Action.&quot; <i>Working Paper</i>.'
+citation: 'Fuhrmann-Riebel, H., D’Exelle, B., López Vargas, K., Tonke, S. & Verschoor, A. (2022). &quot;Correcting Misperceptions About Trends and Norms to Address Weak Collective Action.&quot; <i>Journal of Environmental Economics and Management</i>, 128, 103046.'
 
 PublicationStatus: 'Published'
 
@@ -26,4 +26,4 @@ We study how correcting people’s beliefs about social norms and behavioral tre
 
 [Download](https://ssrn.com/abstract=4311583)
 
-Recommended citation: Fuhrmann-Riebel, H., D’Exelle, B., López Vargas, K., Tonke, S. & Verschoor, A. (2022). &quot;Correcting Misperceptions About Trends and Norms to Address Weak Collective Action.&quot; <i>Working Paper</i>.
+Recommended citation: Fuhrmann-Riebel, H., D’Exelle, B., López Vargas, K., Tonke, S. & Verschoor, A. (2022). &quot;Correcting Misperceptions About Trends and Norms to Address Weak Collective Action.&quot; <i>Journal of Environmental Economics and Management</i>, 128, 103046.
