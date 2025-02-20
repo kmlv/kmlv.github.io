@@ -17,7 +17,7 @@ paperurl: 'https://ssrn.com/abstract=4844520'
 
 citation: 'Fuhrmann-Riebel, H., D’Exelle, B., López Vargas, K., Tonke, S. & Verschoor, A. (2024). &quot;Can Reminders Promote Regular Pro-Environmental Behavior? Experimental Evidence from Peru.&quot; <i>Working Paper</i>.'
 
-PublicationStatus: 'WorkInProgress'
+PublicationStatus: 'WorkingPaper'
 
 tags: ['Experiment','Field','Environmental','reminders','limited attention','habit formation','recycling']
 
